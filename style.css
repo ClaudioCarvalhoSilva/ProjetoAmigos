@@ -71,7 +71,7 @@ main h2:hover {
   margin: 0 auto;
   width: 70%;
   margin-top: 7.0rem;
-  background-image: linear-gradient(to bottom, rgba(62, 57, 57, 0.3) 20%, rgb(68, 67, 71) 45%);
+  background-image: linear-gradient(to bottom, rgba(62, 57, 57, 0.3) 4%, rgb(68, 67, 71) 10%);
   position: relative;
   
 }
@@ -277,4 +277,7 @@ justify-content: center;
     display: flex;
   }
   
+  .center {
+  background-image: linear-gradient(to bottom, rgba(62, 57, 57, 0.3) 20%, rgb(68, 67, 71) 45%);
+  }  
 }
