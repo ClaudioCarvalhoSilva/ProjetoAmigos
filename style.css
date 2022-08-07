@@ -117,11 +117,6 @@ button:hover {
   
 }
 
-.column {
-  display: flex;
-}
-
-
 .conteiner1 {
   font-size: 0.8rem;
   text-align: end;
@@ -277,4 +272,8 @@ justify-content: center;
     color: rgba(255, 255, 255, 0.692);
   }
 
+  .column {
+    display: flex;
+  }
+  
 }
