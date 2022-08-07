@@ -125,7 +125,7 @@ button:hover {
 .conteiner1 {
   font-size: 0.8rem;
   text-align: end;
-  margin-right: 5.0rem;
+  margin-right: 1.0rem;
   color: rgba(255, 255, 255, 0.692);
 }
 
@@ -269,8 +269,12 @@ justify-content: center;
   background-color: #777369;
 }
 
-
 @media (min-width: 40em) {
-
+  .conteiner1 {
+    font-size: 0.8rem;
+    text-align: end;
+    margin-right: 5.0rem;
+    color: rgba(255, 255, 255, 0.692);
+  }
 
 }
