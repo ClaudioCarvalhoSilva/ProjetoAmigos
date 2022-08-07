@@ -128,7 +128,10 @@ button:hover {
 
 .conteiner1 a button {
   margin-right: 3.0rem;
-  
+}
+
+.our {
+  margin-top: 0.4rem;
 }
 
 .conteiner {
@@ -271,6 +274,10 @@ justify-content: center;
     text-align: end;
     margin-right: 5.0rem;
     color: rgba(255, 255, 255, 0.692);
+  }
+  
+  .our {
+    margin-top: 0rem;
   }
 
   .column {
