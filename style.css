@@ -112,9 +112,7 @@ button:hover {
 .ball {
   border-radius: 50%;
   width: 5.0rem;
-  height: 5.0rem;
-  
-  
+  height: 5.0rem;  
 }
 
 .conteiner1 {
@@ -124,6 +122,9 @@ button:hover {
   color: rgba(255, 255, 255, 0.692);
 }
 
+.column {
+  margin-top: 5rem;
+}
 
 .conteiner1 a button {
   margin-right: 3.0rem;
